@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/template-simple-react/static/css/main.c5527cd4.css",
+    "main.js": "/template-simple-react/static/js/main.1e5a8909.js",
+    "static/media/carrousel-3.jpg": "/template-simple-react/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "index.html": "/template-simple-react/index.html",
+    "main.c5527cd4.css.map": "/template-simple-react/static/css/main.c5527cd4.css.map",
+    "main.1e5a8909.js.map": "/template-simple-react/static/js/main.1e5a8909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5527cd4.css",
+    "static/js/main.1e5a8909.js"
+  ]
+}
