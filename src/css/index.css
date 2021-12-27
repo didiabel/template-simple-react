@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.homosapiensfoto{
+  height: 100%;
+  width: 100%;
+}
+
+.cards {
+  background-color: lightcoral;
+  margin: 80px;
+}
+.cards img{
+  height: 70%;
+  width: 70%;
+}
+.card{
+  border: none;
+  margin: inherit;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+}
