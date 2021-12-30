@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/template-simple-react/static/css/main.c5527cd4.css",
-    "main.js": "/template-simple-react/static/js/main.1e5a8909.js",
+    "main.css": "/template-simple-react/static/css/main.b1a6b3a5.css",
+    "main.js": "/template-simple-react/static/js/main.a0bd2fd8.js",
     "static/media/carrousel-3.jpg": "/template-simple-react/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "static/media/nocheDeBrujas.jpg": "/template-simple-react/static/media/nocheDeBrujas.f63aa866d53dcdbfe6db.jpg",
+    "static/media/educacion.jpg": "/template-simple-react/static/media/educacion.a5b69512eef2fc245c3e.jpg",
     "index.html": "/template-simple-react/index.html",
-    "main.c5527cd4.css.map": "/template-simple-react/static/css/main.c5527cd4.css.map",
-    "main.1e5a8909.js.map": "/template-simple-react/static/js/main.1e5a8909.js.map"
+    "main.b1a6b3a5.css.map": "/template-simple-react/static/css/main.b1a6b3a5.css.map",
+    "main.a0bd2fd8.js.map": "/template-simple-react/static/js/main.a0bd2fd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5527cd4.css",
-    "static/js/main.1e5a8909.js"
+    "static/css/main.b1a6b3a5.css",
+    "static/js/main.a0bd2fd8.js"
   ]
 }
