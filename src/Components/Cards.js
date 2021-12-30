@@ -13,6 +13,7 @@ class Cards extends React.Component {
     }
     render() { 
         return (  
+      <div className='mainCards'>    
         <div className='cards d-flex justify-content-between'>
             <div class="card">
                <img class="card-img-top " src={maggie} alt="Card image cap"/>
@@ -38,7 +39,8 @@ class Cards extends React.Component {
                    <button class="btn btn-primary">Go somewhere</button>
                  </div>
              </div>
-         </div> );
+         </div>
+        </div>  );
     }
 }
  

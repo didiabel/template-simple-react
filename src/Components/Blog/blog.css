@@ -1,0 +1,14 @@
+.seccionBlog{
+    background-color: burlywood;
+    padding: 100px;
+}
+.pt1{border-bottom: 2px solid gray;}
+
+.imgblog{
+    width: 25%;
+    height: 25%;}
+
+.blog{
+    background-color: white;
+    padding: 50px;
+}    

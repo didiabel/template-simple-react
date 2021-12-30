@@ -14,6 +14,7 @@ code {
 .homosapiensfoto{
   height: 100%;
   width: 100%;
+  background: none;
 }
 
 .cards {
@@ -31,4 +32,14 @@ code {
 .footer{
   display: flex;
   justify-content: space-around;
+}
+.main{
+  padding: 100px;
+  background-color: burlywood;
+}
+.mainCards{
+  border-top: black 2px solid;
+  border-collapse: 400px;
+  padding: 100px;
+  background-color: burlywood;
 }

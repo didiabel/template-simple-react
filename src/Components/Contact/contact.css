@@ -1,0 +1,18 @@
+.contact-container {
+    height: 74vh;
+    background-color: burlywood ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .formcontacto{
+    background-color: #fff;
+    padding: 60px;
+    border: gray solid 1px;
+    border-radius: 50px;
+    width: 500px;
+  }
+  .inputmsje{
+    height: 150px;
+  }
+  

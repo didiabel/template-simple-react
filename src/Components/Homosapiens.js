@@ -7,7 +7,7 @@ class Homosapiens extends React.Component {
       this.state = {  }
     }
     render() { 
-      return ( <div>
+      return ( <div className='main'>
         <img className='homosapiensfoto' src={foto2} alt /> 
       </div> );
     }
